@@ -1,1 +1,1 @@
-# webcomic_symfony
+# webcomic-xkcd_symfony_api
